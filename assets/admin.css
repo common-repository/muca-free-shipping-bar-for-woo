@@ -1,0 +1,17 @@
+.mwoofsb_wrap{
+    position: absolute;
+    margin-left: 190px;
+    display: block;
+    z-index: 9999999999999999999;
+}
+.card{
+    max-width: 99%;
+}
+label > h4 {
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+.MUCAFSB td {
+    padding-top: 0;
+    padding-bottom: 15px;
+}
